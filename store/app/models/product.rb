@@ -1,5 +1,4 @@
 class Product < ApplicationRecord
-    validates :name, presence: true
-    def index
-    end    
+  has_rich_text :description
+  validates :name, presence: true
 end
