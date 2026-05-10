@@ -27,8 +27,9 @@
 #       "yes": yup
 #       enabled: "ON"
 
-en:
-  hello: "Hello world"
+pt_BR:
+  hello: "Ola mundo"
   products:
     index:
-      title: "Products"
+      title: "Produtos"
+
